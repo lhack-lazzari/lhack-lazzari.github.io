@@ -1,11 +1,28 @@
 ---
-title: "personal_website"
+title: "Lottie Hack-Lazzari"
+about:
+  template: jolla
+  image: images/insidepassage.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lhack-lazzari
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0002-0648-9014
 ---
 
-This is a Quarto website.
+*Undergraduate Student in Environmental Science*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of Exeter
 
-```{r}
-1 + 1
-```
+## Education
+
+MSci | 2025 - 2029
+
+## Research interests
+
+I am interested in quantitative mixed-coniferous and eucalypt forest ecology (structural, successional, and fire-regime dynamics) \
+
+Martian planetary science/geomorphology (crustal extension, fluvial incision, and slope failure) in Tharsis/Valles Marineris. \
+
+Quantitative remote sensing

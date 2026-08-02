@@ -1,16 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website",
+    "title": "Lottie Hack-Lazzari",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Undergraduate Student in Environmental Science\nUniversity of Exeter"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Lottie Hack-Lazzari",
+    "section": "Education",
+    "text": "Education\nMSci | 2025 - 2029"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Lottie Hack-Lazzari",
+    "section": "Research interests",
+    "text": "Research interests\nI am interested in quantitative mixed-coniferous and eucalypt forest ecology (structural, successional, and fire-regime dynamics)\n\nMartian planetary science/geomorphology (crustal extension, fluvial incision, and slope failure) in Tharsis/Valles Marineris.\n\nQuantitative remote sensing"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Is it possible to find spatial correlation between slope-forced hydrological routing and grove-scale distribution of Monarch Sequoiadendron giganteum using study-relative low-resolution remote sensing in the form of a 1m DEM-derived TWI?"
+  },
+  {
+    "objectID": "Projects.html#modelling-spatial-hydro-refugia-of-monarch-sequoiadendron-giganteum",
+    "href": "Projects.html#modelling-spatial-hydro-refugia-of-monarch-sequoiadendron-giganteum",
+    "title": "Projects",
+    "section": "",
+    "text": "Is it possible to find spatial correlation between slope-forced hydrological routing and grove-scale distribution of Monarch Sequoiadendron giganteum using study-relative low-resolution remote sensing in the form of a 1m DEM-derived TWI?"
+  },
+  {
+    "objectID": "Projects.html#analysing-terrain-controlled-mass-wasting-of-ius-chasmas-wall-slopes",
+    "href": "Projects.html#analysing-terrain-controlled-mass-wasting-of-ius-chasmas-wall-slopes",
+    "title": "Projects",
+    "section": "Analysing terrain-controlled mass wasting of Ius Chasma’s wall slopes",
+    "text": "Analysing terrain-controlled mass wasting of Ius Chasma’s wall slopes\nUsing &gt;1.0m resolution HiRISE DEM’s, analysing temporal changes to slope, aspect, and curvature to find terrain controlled mass wasting events within Ius Chasma."
+  },
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Quantitative and Applied Ecology Research Group (QAEco)\nUniversity of Melbourne\nApril 2026"
+  },
+  {
+    "objectID": "Experience.html#undergraduate-research-assistant",
+    "href": "Experience.html#undergraduate-research-assistant",
+    "title": "Experience",
+    "section": "",
+    "text": "Quantitative and Applied Ecology Research Group (QAEco)\nUniversity of Melbourne\nApril 2026"
   }
 ]

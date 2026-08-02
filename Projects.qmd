@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## Modelling spatial hydro-refugia of Monarch Sequoiadendron giganteum
+
+Is it possible to find spatial correlation between slope-forced hydrological routing and grove-scale distribution of Monarch Sequoiadendron giganteum using study-relative low-resolution remote sensing in the form of a 1m DEM-derived TWI?
+
+## Analysing terrain-controlled mass wasting of Ius Chasma's wall slopes
+
+Using >1.0m resolution HiRISE DEM's, analysing temporal changes to slope, aspect, and curvature to find terrain controlled mass wasting events within Ius Chasma.

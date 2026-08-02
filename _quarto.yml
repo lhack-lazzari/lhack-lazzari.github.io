@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_website"
+  title: "Lottie Hack-Lazzari"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Projects.qmd
+        text: Projects
+      - href: Experience.qmd
+        text: Experience
+      - href: Blog.qmd
+        text: Blog
 
 format:
   html:
@@ -17,6 +22,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
