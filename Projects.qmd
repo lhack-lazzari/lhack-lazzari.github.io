@@ -8,4 +8,4 @@ Is it possible to find spatial correlation between slope-forced hydrological rou
 
 ## Analysing terrain-controlled mass wasting of Ius Chasma's wall slopes
 
-Using >1.0m resolution HiRISE DEM's, analysing temporal changes to slope, aspect, and curvature to find terrain controlled mass wasting events within Ius Chasma.
+Using >1.0m resolution HiRISE DEM's, analysing slope, aspect, and curvature to find terrain controlled mass wasting events within Ius Chasma.
